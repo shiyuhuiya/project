@@ -1,0 +1,1 @@
+import{R as i,e as s,T as a,U as c}from"./index-CTVgZndQ.js";const e=i("pic",(()=>{const i=s(JSON.parse(a("pic")||"[]"));return{picList:i,set:function(s){i.value=s,c("pic",JSON.stringify(i.value))},clear:function(){i.value=[],c("pic","[]")}}}));export{e as u};
